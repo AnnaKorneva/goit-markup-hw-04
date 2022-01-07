@@ -303,6 +303,7 @@ button {
   font-family: Raleway;
 }
 .footer-adress {
+  font-size: 14px;
   margin-bottom: 9px;
   text-decoration: none;
   line-height: 1.71;
@@ -310,6 +311,7 @@ button {
   letter-spacing: 0.03em;
 }
 .footer-info {
+  font-size: 14px;
   line-height: 1.71;
   color: #ffffff;
   text-decoration: none;
@@ -446,7 +448,7 @@ span {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
 }
-.border {
+.header {
   border-bottom: 1px solid #ececec;
 }
 
